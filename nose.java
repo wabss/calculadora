@@ -1,3 +1,5 @@
+package repositorio3;
+
 import java.util.*;
 
 public class nose{
@@ -29,5 +31,6 @@ public class nose{
             }
             System.out.println(result);
         }
+        System.out.println("Guayaba");
     }
 }
